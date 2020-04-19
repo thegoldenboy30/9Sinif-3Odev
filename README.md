@@ -51,7 +51,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
 
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
-
+***Hocam bu bölüm ve sonraki bölüm üzerine uğraşmayı çok isterdim ama bilgisayarımın bozulmasından ve süremin azlığından mütelevellit yapamayacağım, ayrıca ilk bölümü zorlayarak yaptım. 2.bölümde ise neredeyse hiçbir şey anlamadım.***
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
 
